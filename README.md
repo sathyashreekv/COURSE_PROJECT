@@ -1,6 +1,6 @@
-# AI-Driven Generative System for Predicting Hull Biofouling and Optimising Maritime Maintenance.
+# SEMEND — AI-Driven Hull Biofouling Classification System
 
-An end-to-end pipeline for classifying marine biofouling on ship hulls using a CNN classifier, a maintenance optimizer, and a Stable Diffusion img2img generator.
+An end-to-end pipeline for classifying marine biofouling on ship hulls using a CNN classifier, a rule-based maintenance optimizer, and a Stable Diffusion img2img generator.
 
 ---
 
